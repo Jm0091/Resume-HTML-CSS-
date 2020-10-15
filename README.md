@@ -1,2 +1,2 @@
-# Resume-HTML-CSS-
+# Resume-HTML/CSS
 Just for fun 
